@@ -1,1 +1,3 @@
 # resume-builder
+
+npm start
