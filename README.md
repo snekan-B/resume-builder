@@ -1,6 +1,6 @@
 # resume-builder
 
-#Resume Builder is a react web app to create cool resume.
+# Resume Builder is a react web app to create cool resume.
 
 Web-app:https://snekan-resumebuilder-6df613.netlify.app/
 
